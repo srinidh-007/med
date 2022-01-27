@@ -1,0 +1,348 @@
+{
+  "doctors": [
+    {
+      "id": "3",
+      "f_name": "Sandeep",
+      "l_name": "Thadem",
+      "email": "sandy.T@gmail.com",
+      "user_name": "sandy",
+      "mobile": "6824561230",
+      "dob": "10/05/2000",
+      "city": "Salem",
+      "state": "Telangana",
+      "specialization": "Pediatrics",
+      "year_of_exp": 2,
+      "is_admin": false,
+      "is_doctor": true,
+      "price": "1000"
+    },
+    {
+      "f_name": "Sree Nithish",
+      "l_name": "B",
+      "email": "sreenithishb@gmail.com",
+      "user_name": "sree_nithish_b",
+      "mobile": "7894561230",
+      "dob": "15/09/2000",
+      "city": "Salem",
+      "state": "Tamil Nadu",
+      "specialization": "Cardiologist",
+      "year_of_exp": "6",
+      "is_admin": false,
+      "is_doctor": true,
+      "id": "4",
+      "price": "1500"
+    },
+    {
+      "f_name": "Harshith",
+      "l_name": "Jupuru",
+      "email": "harshith.j@gmail.com",
+      "user_name": "jupuru_harshith",
+      "mobile": "7894561230",
+      "dob": "15/09/2000",
+      "city": "Salem",
+      "state": "Tamil Nadu",
+      "specialization": "Cardiologist",
+      "year_of_exp": "6",
+      "is_admin": false,
+      "is_doctor": true,
+      "id": "5",
+      "price": "1500"
+    },
+    {
+      "id": "3",
+      "f_name": "Sandeep",
+      "l_name": "Thadem",
+      "email": "sandy.T@gmail.com",
+      "user_name": "sandy",
+      "mobile": "6824561230",
+      "dob": "10/05/2000",
+      "city": "Salem",
+      "state": "Telangana",
+      "specialization": "Pediatrics",
+      "year_of_exp": 2,
+      "is_admin": false,
+      "is_doctor": true,
+      "price": "1000"
+    },
+    {
+      "f_name": "Sree Nithish",
+      "l_name": "B",
+      "email": "sreenithishb@gmail.com",
+      "user_name": "sree_nithish_b",
+      "mobile": "7894561230",
+      "dob": "15/09/2000",
+      "city": "Salem",
+      "state": "Tamil Nadu",
+      "specialization": "Cardiologist",
+      "year_of_exp": "6",
+      "is_admin": false,
+      "is_doctor": true,
+      "id": "4",
+      "price": "1500"
+    },
+    {
+      "f_name": "Harshith",
+      "l_name": "Jupuru",
+      "email": "harshith.j@gmail.com",
+      "user_name": "jupuru_harshith",
+      "mobile": "7894561230",
+      "dob": "15/09/2000",
+      "city": "Salem",
+      "state": "Tamil Nadu",
+      "specialization": "Cardiologist",
+      "year_of_exp": "6",
+      "is_admin": false,
+      "is_doctor": true,
+      "id": "5",
+      "price": "1500"
+    },{
+      "id": "3",
+      "f_name": "Sandeep",
+      "l_name": "Thadem",
+      "email": "sandy.T@gmail.com",
+      "user_name": "sandy",
+      "mobile": "6824561230",
+      "dob": "10/05/2000",
+      "city": "Salem",
+      "state": "Telangana",
+      "specialization": "Pediatrics",
+      "year_of_exp": 2,
+      "is_admin": false,
+      "is_doctor": true,
+      "price": "1000"
+    },
+    {
+      "f_name": "Sree Nithish",
+      "l_name": "B",
+      "email": "sreenithishb@gmail.com",
+      "user_name": "sree_nithish_b",
+      "mobile": "7894561230",
+      "dob": "15/09/2000",
+      "city": "Salem",
+      "state": "Tamil Nadu",
+      "specialization": "Cardiologist",
+      "year_of_exp": "6",
+      "is_admin": false,
+      "is_doctor": true,
+      "id": "4",
+      "price": "1500"
+    },
+    {
+      "f_name": "Harshith",
+      "l_name": "Jupuru",
+      "email": "harshith.j@gmail.com",
+      "user_name": "jupuru_harshith",
+      "mobile": "7894561230",
+      "dob": "15/09/2000",
+      "city": "Salem",
+      "state": "Tamil Nadu",
+      "specialization": "Cardiologist",
+      "year_of_exp": "6",
+      "is_admin": false,
+      "is_doctor": true,
+      "id": "5",
+      "price": "1500"
+    },{
+      "id": "3",
+      "f_name": "Sandeep",
+      "l_name": "Thadem",
+      "email": "sandy.T@gmail.com",
+      "user_name": "sandy",
+      "mobile": "6824561230",
+      "dob": "10/05/2000",
+      "city": "Salem",
+      "state": "Telangana",
+      "specialization": "Pediatrics",
+      "year_of_exp": 2,
+      "is_admin": false,
+      "is_doctor": true,
+      "price": "1000"
+    },
+    {
+      "f_name": "Sree Nithish",
+      "l_name": "B",
+      "email": "sreenithishb@gmail.com",
+      "user_name": "sree_nithish_b",
+      "mobile": "7894561230",
+      "dob": "15/09/2000",
+      "city": "Salem",
+      "state": "Tamil Nadu",
+      "specialization": "Cardiologist",
+      "year_of_exp": "6",
+      "is_admin": false,
+      "is_doctor": true,
+      "id": "4",
+      "price": "1500"
+    },
+    {
+      "f_name": "Harshith",
+      "l_name": "Jupuru",
+      "email": "harshith.j@gmail.com",
+      "user_name": "jupuru_harshith",
+      "mobile": "7894561230",
+      "dob": "15/09/2000",
+      "city": "Salem",
+      "state": "Tamil Nadu",
+      "specialization": "Cardiologist",
+      "year_of_exp": "6",
+      "is_admin": false,
+      "is_doctor": true,
+      "id": "5",
+      "price": "1500"
+    },{
+      "id": "3",
+      "f_name": "Sandeep",
+      "l_name": "Thadem",
+      "email": "sandy.T@gmail.com",
+      "user_name": "sandy",
+      "mobile": "6824561230",
+      "dob": "10/05/2000",
+      "city": "Salem",
+      "state": "Telangana",
+      "specialization": "Pediatrics",
+      "year_of_exp": 2,
+      "is_admin": false,
+      "is_doctor": true,
+      "price": "1000"
+    },
+    {
+      "f_name": "Sree Nithish",
+      "l_name": "B",
+      "email": "sreenithishb@gmail.com",
+      "user_name": "sree_nithish_b",
+      "mobile": "7894561230",
+      "dob": "15/09/2000",
+      "city": "Salem",
+      "state": "Tamil Nadu",
+      "specialization": "Cardiologist",
+      "year_of_exp": "6",
+      "is_admin": false,
+      "is_doctor": true,
+      "id": "4",
+      "price": "1500"
+    },
+    {
+      "f_name": "Harshith",
+      "l_name": "Jupuru",
+      "email": "harshith.j@gmail.com",
+      "user_name": "jupuru_harshith",
+      "mobile": "7894561230",
+      "dob": "15/09/2000",
+      "city": "Salem",
+      "state": "Tamil Nadu",
+      "specialization": "Cardiologist",
+      "year_of_exp": "6",
+      "is_admin": false,
+      "is_doctor": true,
+      "id": "5",
+      "price": "1500"
+    }
+
+  ],
+  "women":[
+    {
+        "key": "1",
+        "name": "Tops",
+        "description": "Pink trendy top",
+        "price": "1000"
+      },
+      {
+        "key": "2",
+        "name": "Pant",
+        "description": "Raymond pant blue color",
+        "price": "600"
+      
+      },
+      {
+        "key": "3",
+        "name": "Shirt",
+        "description": "Grey relaxing t-shirt",
+        "price": "800"
+      
+      },
+      {
+        "key": "4",
+        "name": "Dress",
+        "description": "Trendy yellow dress from AND",
+        "price": "1500"
+      
+      },
+      {
+        "key": "5",
+        "name": "Footwear",
+        "description": "Platform heels from hotecurry",
+        "price": "900"
+      
+      },
+      {
+        "key": "6",
+        "name": "Tops",
+        "description": "Pink trendy top",
+        "price": "1000"
+      },
+      {
+        "key": "7",
+        "name": "Pant",
+        "description": "Raymond pant blue color",
+        "price": "600"
+      
+      },
+      {
+        "key": "8",
+        "name": "Shirt",
+        "description": "Grey relaxing t-shirt",
+        "price": "800"
+      
+      },
+      {
+        "key": "9",
+        "name": "Dress",
+        "description": "Trendy yellow dress from AND",
+        "price": "1500"
+      
+      },
+      {
+        "key": "10",
+        "name": "Footwear",
+        "description": "Platform heels from hotecurry",
+        "price": "900"
+      
+      },
+      {
+        "key": "11",
+        "name": "Tops",
+        "description": "Pink trendy top",
+        "price": "1000"
+      },
+      {
+        "key": "12",
+        "name": "Pant",
+        "description": "Raymond pant blue color",
+        "price": "600"
+      
+      },
+      {
+        "key": "13",
+        "name": "Shirt",
+        "description": "Grey relaxing t-shirt",
+        "price": "800"
+      
+      },
+      {
+        "key": "14",
+        "name": "Dress",
+        "description": "Trendy yellow dress from AND",
+        "price": "1500"
+      
+      },
+      {
+        "key": "15",
+        "name": "Footwear",
+        "description": "Platform heels from hotecurry",
+        "price": "900"
+      
+      }
+]
+
+}
+

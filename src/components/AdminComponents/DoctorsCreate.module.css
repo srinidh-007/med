@@ -1,0 +1,149 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300);
+
+/* body {
+  background: #DBE2EF;
+} */
+
+.container {
+  height: 714px;
+  width: 980px;
+  background: #fff;
+  border: 1px solid #d9d6cf;
+  border-radius: 8px;
+  -webkit-box-shadow: 0 0 12px 1px rgba(0, 0, 0, 0.21);
+  -moz-box-shadow: 0 0 12px 1px rgba(0, 0, 0, 0.21);
+  box-shadow: 0 0 12px 1px rgba(0, 0, 0, 0.21);
+  display: flex;
+  margin: 100px auto 0;
+  margin-bottom: 100px;
+  position: relative;
+}
+.container .account_form {
+  height: 713px;
+  width: 780px;
+  margin: auto;
+}
+
+.container, .account_form {
+  height: 913px;
+}
+
+.container .account_form fieldset {
+  border: 0;
+  position: relative;
+}
+.container .account_form fieldset:not(:first-of-type) {
+  display: none;
+}
+
+.row_header h1 {
+  color: #112D4E;
+  font-size: 30px;
+  font-family: "Open+Sans+Condensed", sans-serif;
+  font-weight: normal;
+}
+.row_header h1 span {
+  padding: 10px;
+}
+.row_header .number {
+  color: #112D4E;
+  font-size: 28px;
+  border: 1px solid #112D4E;
+  border-radius: 100%;
+  float: left;
+  height: 57px;
+  line-height: 57px;
+  margin: -10px 20px 0 -5px;
+  text-align: center;
+  width: 57px;
+}
+
+.row {
+  display: flex;
+  justify-content: space-around;
+  margin-left: -30px;
+  padding: 10px;
+  position: relative;
+}
+.row .row__field, .row .row__field--large, .row .row__field__half {
+  float: left;
+  box-sizing: border-box;
+  padding: 5px 20px 5px;
+  transition: 0.3s linear;
+  width: 380px;
+}
+.row .row__field label, .row .row__field--large label, .row .row__field__half label {
+  color: #989690;
+  font-size: 18px;
+  font-family: "Open+Sans+Condensed", sans-serif;
+}
+.row .row__field input[type], .row .row__field--large input[type], .row .row__field__half input[type] {
+  appearance: none;
+  background: #fff;
+  border: 1px solid #e9e6dc;
+  border-radius: 5px;
+  color: #989690;
+  font-size: 14px;
+  height: 35px;
+  margin-top: 10px;
+  outline: none;
+  padding: 5px 10px;
+  width: 100%;
+}
+.row .row__field p, .row .row__field--large p, .row .row__field__half p {
+  color: #989690;
+  font-size: 20px;
+  font-family: "Open+Sans+Condensed", sans-serif;
+}
+.row .row__field__half {
+  width: 180px;
+}
+.row .row__field--large {
+  width: 600px;
+}
+
+.create_form_input[type=button], .create_form_input[type=submit] {
+  border: 0;
+  border-radius: 5px;
+  box-shadow: 0 0 12px 1px rgba(0, 0, 0, 0.21);
+  height: 66px;
+  margin: 25px 0;
+  padding: 5px 15px;
+  width: 280px;
+  transition: all 0.4s;
+}
+
+.create_form_input[type=button]:hover {
+  cursor: pointer;
+  /* margin: 25px -10px;
+  box-shadow: -100px 10px; */
+}
+
+.create_form_input[type=submit]:hover {
+  cursor: pointer;
+  /* margin: 25px -10px;
+  box-shadow: 100px 10px; */
+}
+
+.create_form_input[type=button].button__submit--dark, .create_form_input[type=submit].button__submit--dark {
+  color: #fff;
+  font-size: 18px;
+  background: #112D4E;
+  left: 80px;
+  position: absolute;
+}
+.create_form_input[type=button].button__light, .create_form_input[type=submit].button__light {
+  color: #fff;
+  font-size: 18px;
+  background: #3F72AF;
+  left: 90px;
+  position: absolute;
+}
+.create_form_input[type=button].button__dark, .create_form_input[type=submit].button__dark {
+  color: #fff;
+  font-size: 18px;
+  background: #112D4E;
+  float: right;
+  position: absolute;
+  right: 100px;
+}
